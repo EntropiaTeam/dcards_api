@@ -1,0 +1,43 @@
+{
+  "dcards": {
+    "en-US": {
+      "agreement": {
+        "title": "Dcards",
+        "subTitle": "Acknowledgement and Release",
+        "updateDateTitle": "Last Updated January 25, 2021",
+        "updateDate": {
+          "day": 25,
+          "month": 1,
+          "year": 2021
+        },
+        "tos": ""
+      }
+    },
+    "en-CA": {
+      "agreement": {
+        "title": "Dcards",
+        "subTitle": "Acknowledgement and Release",
+        "updateDateTitle": "Last Updated January 25, 2021",
+        "updateDate": {
+          "day": 25,
+          "month": 1,
+          "year": 2021
+        },
+        "tos": "Welcome to Dcards."
+      }
+    },
+    "fr-CA": {
+      "agreement": {
+        "title": "Dcards",
+        "subTitle": "Reconnaissance et décharge",
+        "updateDateTitle": "Dernière mise à jour le 25 janvier 2021",
+        "updateDate": {
+          "day": 25,
+          "month": 1,
+          "year": 2021
+        },
+        "tos": ""
+      }
+    }
+  }
+}
